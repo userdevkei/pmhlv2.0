@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+  <component name="LaravelPint">
+    <laravel_pint_settings>
+      <LaravelPintConfiguration tool_path="$PROJECT_DIR$/application/vendor/bin/pint" />
+    </laravel_pint_settings>
   </component>
-  <component name="ChangeListManager">
-    <list default="true" id="b0e38390-9c89-4c75-afde-3b29273557e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/AGBT45679.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/BLEND 1727218041.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/DELIVERIES TALLY 1726994037.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/DRIVER CLEARANCE 1727218064.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ED240048.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ED240049.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ID240828.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ID240836.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ID240837.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/TempFiles/ID240838.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="ComposerConfigs">
-    <option name="configs">
-      <option value="$PROJECT_DIR$/vendors/tinymce/composer.json" />
-    </option>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/application/composer.json</pharConfigPath>
-    <execution>
-      <executable path="composer" />
-    </execution>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/application" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/application/vendor/brick/math" />
       <path value="$PROJECT_DIR$/application/vendor/setasign/fpdi" />
@@ -176,118 +155,16 @@
       <path value="$PROJECT_DIR$/application/vendor/phpoffice/math" />
     </include_path>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2lFZrB57ujb29bbNgP7umy5olZD" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/application/phpunit.xml" custom_loader_path="$PROJECT_DIR$/application/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/newPackMac/application/Modules/Admin/Resources/views/logistics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Admin\Resources\views\logistics" />
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Admin\Resources\views\warehouses" />
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Admin\Resources\views\users" />
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Admin\Resources\views\teas" />
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Admin\Resources\views\stock" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Clerk\Entities" />
-      <recent name="C:\xampp\htdocs\newPackMac" />
-      <recent name="C:\xampp\htdocs\newPackMac\application\Modules\Clerk\Resources\views\partials" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner configuration_file="$PROJECT_DIR$/application/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner configuration_file="$PROJECT_DIR$/application/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
-        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b0e38390-9c89-4c75-afde-3b29273557e3" name="Changes" comment="" />
-      <created>1724777981500</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1724777981500</updated>
-      <workItem from="1724777982597" duration="25587000" />
-      <workItem from="1724862903016" duration="20111000" />
-      <workItem from="1724888301795" duration="7704000" />
-      <workItem from="1724916451152" duration="53000" />
-      <workItem from="1724947824718" duration="5946000" />
-      <workItem from="1724954514805" duration="2552000" />
-      <workItem from="1724959414239" duration="4589000" />
-      <workItem from="1724998852285" duration="606000" />
-      <workItem from="1725007372908" duration="1490000" />
-      <workItem from="1725035484267" duration="5435000" />
-      <workItem from="1725092056877" duration="1961000" />
-      <workItem from="1725141599638" duration="7226000" />
-      <workItem from="1725168850061" duration="1583000" />
-      <workItem from="1725213319913" duration="16732000" />
-      <workItem from="1725400770781" duration="3999000" />
-      <workItem from="1725429138902" duration="167000" />
-      <workItem from="1725648922277" duration="82942000" />
-      <workItem from="1725997428799" duration="9186000" />
-      <workItem from="1726036152829" duration="2178000" />
-      <workItem from="1726157620718" duration="17806000" />
-      <workItem from="1726293839982" duration="70847000" />
-      <workItem from="1726470307634" duration="105000" />
-      <workItem from="1726519019744" duration="8653000" />
-      <workItem from="1726553397612" duration="339000" />
-      <workItem from="1726597082174" duration="48369000" />
-      <workItem from="1726726045722" duration="4109000" />
-      <workItem from="1726811064703" duration="4055000" />
-      <workItem from="1726856424503" duration="1832000" />
-      <workItem from="1726859880343" duration="12191000" />
-      <workItem from="1726899392697" duration="5747000" />
-      <workItem from="1726943758936" duration="7559000" />
-      <workItem from="1726990999095" duration="32781000" />
-      <workItem from="1727071930301" duration="2646000" />
-      <workItem from="1727104365601" duration="17309000" />
-      <workItem from="1727154492428" duration="4940000" />
-      <workItem from="1727162941295" duration="3726000" />
-      <workItem from="1727209747932" duration="11506000" />
-      <workItem from="1727246694426" duration="4416000" />
-      <workItem from="1727292254743" duration="13003000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>
